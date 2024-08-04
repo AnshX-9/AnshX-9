@@ -14,13 +14,13 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshX-9&layout=compact&theme=radical&hide=go,python,html&langs_count=6" alt="Top Languages" height="180em" />
 </div>
 
-<br clear="left" /><br /><br />
+<br clear="left" /><br />
 
 <div>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AnshX-9&theme=radical" alt="GitHub Streak Stats" height="180em" />
 </div>
 
-<br clear="left" /><br /><br />
+<br clear="left" /><br />
 
 ---
 
