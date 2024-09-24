@@ -1,10 +1,10 @@
 <h1> Hardik Malhotra </h1>
 
 ## About Me
-- 💼 Currently working at **CDG - INSPECTION LIMITED**
-- 📚 Learning **Web2 + Web3 Development**
-- 💬 Ask me about **MERN & Blockchain Development**
-- 🌐 Check my portfolio: [Click Here](https://portfolio-woad-gamma-25.vercel.app/)
+-  Currently working at **CDG - INSPECTION LIMITED**
+-  Learning **Web2 + Web3 Development**
+-  Ask me about **MERN & Blockchain Development**
+-  Check my portfolio: [Click Here](https://portfolio-woad-gamma-25.vercel.app/)
 
 ---
 
