@@ -1,4 +1,4 @@
-<h1> I'm Hardik Malhotra </h1>
+<h1> Hardik Malhotra </h1>
 
 ## About Me
 - 💼 Currently working at **CDG - INSPECTION LIMITED**
