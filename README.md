@@ -8,7 +8,7 @@
 
 ---
 
-## 📊 GitHub Statss
+## 📊 GitHub Stats
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=AnshX-9&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Total%20Contributions%20(80)" alt="GitHub Stats" height="180em" /> 
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshX-9&layout=compact&theme=radical&hide=go,python,html&langs_count=6" alt="Top Languages" height="180em" />
