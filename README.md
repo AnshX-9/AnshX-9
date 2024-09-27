@@ -1,4 +1,4 @@
-<h1> Hardik Malhotraa </h1>
+<h1> Hardik Malhotraaa </h1>
 
 ## About Me
 -  Currently working as a Frontend Developer at **CDG - INSPECTION LIMITED**
